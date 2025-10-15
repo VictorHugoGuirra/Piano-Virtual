@@ -1,7 +1,7 @@
 # 🎹 Piano Virtual – Toque piano no navegador!
 
 Transforme seu navegador em um **piano virtual interativo!**  
-Toque usando **mouse ou teclado**, ajuste o **volume**, exiba ou oculte letras das teclas e aproveite **efeitos visuais realistas** em um tema **elegante e amadeirado**.
+Toque usando **mouse ou teclado**, ajuste o **volume**, exiba ou oculte letras das teclas e aproveite.
 
 ---
 
